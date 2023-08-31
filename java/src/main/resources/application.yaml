@@ -1,0 +1,12 @@
+spring:
+  main:
+    web-application-type: none
+
+euler-solutions:
+  problem43: 16695334890
+  problem49: 296962999629
+  problem52: 0
+  problem100: 756872327473
+  problem16: 1366
+  problem67: 7273
+  problem18: 1074

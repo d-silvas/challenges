@@ -1,0 +1,1 @@
+Euler project solutions in C++. Made using Visual Studio.
